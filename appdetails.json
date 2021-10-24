@@ -22,7 +22,9 @@
     {"id":3, "file":3, "city":"Germany","country":"Germany","image":"germany","ip":"34.89.158.137","active":"true","signal":"a"},
     {"id":4, "file":4, "city":"Canada","country":"Canada","image":"canada","ip":"34.130.183.90","active":"true","signal":"a"},
     {"id":5, "file":5, "city":"United States","country":"United States","image":"unitedstates","ip":"76.170.183.157","active":"true","signal":"a"},
-    {"id":6, "file":6, "city":"Russia","country":"Russia","image":"russia","ip":"86.102.39.32","active":"true","signal":"a"}
+    {"id":6, "file":6, "city":"Russia","country":"Russia","image":"russia","ip":"86.102.39.32","active":"true","signal":"a"},
+    {"id":7, "file":7, "city":"Thailand","country":"Thailand","image":"thailand","ip":"49.228.134.74","active":"true","signal":"a"}
+    
     
   ]
 }
